@@ -1,7 +1,4 @@
-<html>
-<body>
-
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-</body>
-</html>
+#define PI 3.14 #include<stdio.h> #include<conio.h> void main()
+{
+int a,b,c = 30; printf("hello");
+}
